@@ -1,5 +1,9 @@
-### Hi there 👋
+## 의진 Uijin Kang
+___
 
+#### [Back-end] Junior Developer
+
+#### 🛠 Tech Stack 🛠
 <!--
 **Kanguijin/Kanguijin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
